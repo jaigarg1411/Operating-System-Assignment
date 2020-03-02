@@ -1,0 +1,4 @@
+Sudoku validator
+This project consists of
+designing a multithreaded application that determines whether the solution to
+a Sudoku puzzle is valid.
